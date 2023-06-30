@@ -1,0 +1,1 @@
+<div>"New student has joined"</div>
